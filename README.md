@@ -1,5 +1,4 @@
 
-````markdown
 # 🧑‍🎓 Student REST API with AI Summary (Java + Spring Boot + Ollama)
 
 A simple REST API built with **Java Spring Boot** that performs **CRUD operations** on student profiles and integrates with **Ollama AI** to generate summaries based on student data (Name, Age, Email).
@@ -32,13 +31,12 @@ A simple REST API built with **Java Spring Boot** that performs **CRUD operation
 
 ```bash
 git clone https://github.com/omkarhacker/FealtyX.git
-````
+
+```
 
 ### 2. Build & Run the Spring Boot App
 
 ```bash
-./mvnw spring-boot:run
-# or if using installed Maven
 mvn spring-boot:run
 ```
 
